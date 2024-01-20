@@ -1,0 +1,9 @@
+@DataLangServer_HostAddress = http://localhost:5253
+
+GET {{DataLangServer_HostAddress}}/api/test/
+Accept: application/json
+
+GET {{DataLangServer_HostAddress}}/api/query/
+Accept: application/json
+
+###
