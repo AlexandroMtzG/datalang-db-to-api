@@ -2,7 +2,7 @@
 
 Ever wanted to expose your database as an API?
 
-![Database to API](https://yahooder.sirv.com/datalang/seo/database-to-api.jpg)
+![Database to API](https://yahooder.sirv.com/datalang/seo/database-to-api.png)
 
 ### What is DataLang?
 
