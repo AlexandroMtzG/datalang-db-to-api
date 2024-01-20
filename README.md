@@ -4,7 +4,7 @@ Ever wanted to expose your database as an API?
 
 ![Database to API](https://yahooder.sirv.com/datalang/seo/database-to-api.png)
 
-### What is DataLang?
+## What is DataLang?
 
 [DataLang](https://datalang.io) is an AI-powered app that lets you chat with your databases.
 
