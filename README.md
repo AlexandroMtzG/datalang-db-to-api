@@ -4,11 +4,9 @@ Ever wanted to expose your database as an API?
 
 ![Database to API](https://yahooder.sirv.com/datalang/seo/database-to-api.png)
 
-## What is DataLang?
+## What is Database to API?
 
-[DataLang](https://datalang.io) is an AI-powered app that lets you chat with your databases.
-
-This repository is for custom servers that can be used to expose your database as an API.
+This is a .NET 8 app that exposes your database SQL statements as API endpoints.
 
 ## Getting Started
 
@@ -42,3 +40,7 @@ curl  -X POST \
 ```
 dotnet publish -c Release
 ```
+
+## What is DataLang?
+
+[DataLang](https://datalang.io) is an AI-powered app that lets you chat with your databases.
